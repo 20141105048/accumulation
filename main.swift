@@ -9,8 +9,9 @@
 import Foundation
 
 var a=0
-for (var i=0; i<=100; i++){
-    a=i+a
+
+for(var i=0; i<=100; i++){
+     a=i+a
     
     
 
